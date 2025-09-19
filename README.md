@@ -5,7 +5,7 @@
 **Stimpack** is a Git-powered supplement tracker with a retro Fallout vibe.  
 It organizes your daily dosing, timing, and cycling plans so you can version-control changes, track effects, and iterate like code.
 
-![vault-tec-shredded](https://raw.githubusercontent.com/aelkz/stimpack/master/__assets__/01.png "vault-tec-shredded")
+![vault-tec-shredded](https://raw.githubusercontent.com/aelkz/stimpack/master/__assets__/02.png "vault-tec-shredded")
 
 ---
 
